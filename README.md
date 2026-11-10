@@ -4,6 +4,8 @@
 
 > 个人项目 / 本地 Demo，非生产级系统。
 
+![聊天页面](docs/screenshots/chat.png)
+
 ## 功能
 
 - MCP 工具动态召回与按需加载
